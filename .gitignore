@@ -1,0 +1,27 @@
+node_modules/
+dist/
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/test_shareplate.db
+.pytest_cache/
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Build files
+dist/

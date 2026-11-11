@@ -1,0 +1,10 @@
+test_shareplate.db
+test_uploads/
+uploads/*
+!uploads/.gitkeep
+.env
+__pycache__/
+.venv/
+venv/
+*.pyc
+.pytest_cache/
