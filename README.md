@@ -196,7 +196,7 @@ This project is developed as a group project by a team of three members.
 
 - Member 1 – Anusha Saladi
 - Member 2 – Thanuja Santha
-- Member 3 – Surya Ramoju
+- Member 3 – Ramoju Surya Venkata Sai Prakash
 
 ## ❤️ Our Goal
 
